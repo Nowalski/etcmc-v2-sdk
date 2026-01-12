@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/etcmc-org/etcmc-v2-sdk.git"
+    "url": "git+https://github.com/Nowalski/etcmc-v2-sdk.git"
   },
   "keywords": [
     "etcmc"
@@ -59,9 +59,9 @@
     "singleQuote": true
   },
   "bugs": {
-    "url": "https://github.com/etcmc-org/etcmc-v2-sdk/issues"
+    "url": "https://github.com/Nowalski/etcmc-v2-sdk/issues"
   },
-  "homepage": "https://github.com/etcmc-org/etcmc-v2-sdk#readme",
+  "homepage": "https://github.com/Nowalski/etcmc-v2-sdk#readme",
   "directories": {
     "test": "test"
   },
